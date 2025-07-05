@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810104537475",
+    "project_id": "tyfm-abf8d",
+    "storage_bucket": "tyfm-abf8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810104537475:android:fc0ab43b2d8f5990c4b6b6",
+        "android_client_info": {
+          "package_name": "com.example.tyfm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKIuJIF0uDog2NGf275wQt-ByZMdOvPws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
