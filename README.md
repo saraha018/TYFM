@@ -42,15 +42,15 @@ To ensure messages remain private until the intended time, the app uses a combin
 
 ### Installation:
 
-Bash
+```Bash
 
-git clone https://github.com/yourusername/tyfm.git
+git clone https://github.com/saraha018/tyfm.git
 cd tyfm
 flutter pub get
 
 
 Run the App:
 
-Bash
+```Bash
 
 flutter run
