@@ -51,6 +51,4 @@ flutter pub get
 
 Run the App:
 
-```Bash
-
 flutter run
