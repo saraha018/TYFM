@@ -1,7 +1,7 @@
 # 💌 tyfm (To You From Me)
 tyfm is a digital time-capsule application built with Flutter. It allows users to write letters to their future selves, attach meaningful images, and "lock" them away until a specific date and time. It's a space for reflection, goal-tracking, and surprising your future self with memories.
 
-##✨ Features
+## ✨ Features
 - Future Messaging: Write rich-text letters and set a precise unlock date and time.
 
 - Media Attachments: Securely attach images to your messages to capture the moment visually.
@@ -12,14 +12,14 @@ tyfm is a digital time-capsule application built with Flutter. It allows users t
 
 - Push Notifications: Get notified the exact moment a message from your past self becomes available.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Frontend: Flutter (Dart)
 - Backend: Firebase (Firestore, Storage, and Cloud Functions)
 - Build System: Gradle with Kotlin DSL (build.gradle.kts)
 - Architecture: Provider/Riverpod for State Management
 - Local Support: Java 8+ API desugaring for compatibility across older Android versions.
 
-##⚙️ Technical Highlights
+## ⚙️ Technical Highlights
 
 The project utilizes the latest Android build standards, including:
 
@@ -31,8 +31,8 @@ The project utilizes the latest Android build standards, including:
 
 To ensure messages remain private until the intended time, the app uses a combination of client-side visibility logic and server-side verification to prevent "cheating" by changing the system clock.
 
-##🚀 Getting Started
-###Prerequisites:
+## 🚀 Getting Started
+### Prerequisites:
 
 - Flutter SDK
 
@@ -40,7 +40,7 @@ To ensure messages remain private until the intended time, the app uses a combin
 
 - A Firebase Project
 
-###Installation:
+### Installation:
 
 Bash
 
